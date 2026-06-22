@@ -23,13 +23,13 @@ Estudiante avanzado de escuela secundaria técnica con orientación en **Program
 ### Actualmente...
 
 *   Perfeccionando mis habilidades en desarrollo de software estructurado, patrones de diseño y lógica algorítmica.
-*   Pregúntame sobre: Consultas SQL directas, lógica en C# y cómo renegar con componentes de Arduino.
+*   Pregúntame sobre: Consultas SQL directas y lógica en C#.
 *   Dato curioso: Además de programar, sé diseñar planos técnicos en 3D y reparar celulares.
 
 ---
 
 ### Contacto
 
-*   **LinkedIn:** [linkedin.com/in/santiago-riscal](https://linkedin.com/in/santiago-riscal)
+*   **LinkedIn:** [[linkedin.com/in/santiago-riscal](https://linkedin.com/in/santiago-riscal](https://www.linkedin.com/in/santiago-riscal-91810b410/))
 *   **Email:** santiriscal@gmail.com
 *   **Ubicación:** Buenos Aires, Argentina
